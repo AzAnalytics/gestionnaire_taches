@@ -24,11 +24,12 @@ Les données sont stockées dans un fichier JSON pour persistance.
 
 ## 🗂️ Structure du projet
 
-gestionnaire_taches/ │ ├── main.py # Interface console (menu) ├── gestionnaire.py # Fonctions de gestion des tâches ├── taches.json # Stockage des données (créé automatiquement) └── README.md # Documentation
-
-yaml
-Copier
-Modifier
+gestionnaire_taches/
+│
+├── main.py              # Menu principal en console (interface utilisateur)
+├── gestionnaire.py      # Toutes les fonctions de gestion des tâches
+├── taches.json          # Fichier de stockage des tâches (créé automatiquement)
+└── README.md            # Documentation du projet
 
 ---
 
